@@ -20,3 +20,13 @@
 
 ## Ghi chú
 Hệ thống tự động kiểm tra được thiết lập qua **GitHub** Actions để xác nhận tính chính xác của thuật toán.
+
+## Hướng dẫn chạy chương trình (Quick Start)
+
+1. **Biên dịch:**
+   - Entropy: `g++ -std=c++17 src/entropy_redundancy.cpp -o entropy`
+   - Modulo: `g++ -std=c++17 src/mod_inverse.cpp -o modinv`
+
+2. **Chạy:**
+   - Entropy: `./entropy`
+   - Modulo: `./modinv`
