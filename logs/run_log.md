@@ -11,4 +11,4 @@
 - [x] Đã chạy với `6 9`
 
 ## Điều em học được từ bài lab
-Qua bài lab này, em đã hiểu rõ bản chất toán học của Entropy trong việc đánh giá mức độ ngẫu nhiên của dữ liệu và cách tính toán độ dư thừa thông tin. Đồng thời, em đã nắm vững và cài đặt thành công thuật toán Euclid mở rộng để tìm nghịch đảo modulo - một kiến thức nền tảng quan trọng cho các hệ mật mã học sau này. Quy trình làm việc qua terminal và commit code cũng giúp em quen tay hơn.
+Qua bài lab này, em đã hiểu về bản chất toán học của Entropy trong việc đánh giá mức độ ngẫu nhiên của dữ liệu và cách tính toán độ dư thừa thông tin. Đồng thời, em đã nắm vững và cài đặt thành công thuật toán Euclid mở rộng để tìm nghịch đảo modulo - một kiến thức nền tảng quan trọng cho các hệ mật mã học sau này. Quy trình làm việc qua terminal và commit code cũng giúp em quen tay hơn.   
