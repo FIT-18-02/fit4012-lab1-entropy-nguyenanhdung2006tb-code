@@ -1,31 +1,22 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/WTyCYlbL)
-# FIT4012 – Lab 1. Entropy, độ dư thừa thông tin và nghịch đảo modulo
 
+# FIT4012 – Lab 1: Entropy, Redundancy và Nghịch đảo Modulo
 
-## Mục tiêu bài lab
-Sau khi hoàn thành bài này, sinh viên có thể:
-- Đọc hiểu và chạy được chương trình tính entropy của một chuỗi ký tự.
-- Bổ sung chức năng tính độ dư thừa thông tin dựa trên entropy thực tế.
-- Cài đặt hàm tìm nghịch đảo modulo bằng thuật toán Euclid mở rộng.
-- Tổ chức, kiểm thử và nộp bài bằng GitHub repo.
+## Thông tin sinh viên
+- **Họ và tên:** Nguyễn Anh Dũng
+- **Mã số sinh viên (MSSV):** 1871020167
 
-## Cấu trúc repo
-- `src/entropy_redundancy.cpp`: Q1, Q2
-- `src/mod_inverse.cpp`: Q3
-- `tests/test_cases.md`: test cases tối thiểu
-- `logs/run_log.md`: log chạy chương trình
-- `report-page.md`: báo cáo 1 trang
+## Trạng thái hoàn thiện (Status)
+- [x] **Q1 & Q2**: Hoàn thiện tính toán Entropy và độ dư thừa (Redundancy) trong `src/entropy_redundancy.cpp`.
+- [x] **Q3**: Cài đặt thành công nghịch đảo Modulo bằng thuật toán Euclid mở rộng trong `src/mod_inverse.cpp`.
+- [x] **Testing**: Đã kiểm thử qua ít nhất 5 test cases tại `tests/test_cases.md`.
+- [x] **Reporting**: Đã hoàn thành báo cáo chi tiết tại `report-page.md`.
 
-## Yêu cầu nộp bài
-Hoàn thiện repo và nộp link GitHub. Repo cần có:
-- `README.md`
-- `report-1page.md`
-- `tests/` với ít nhất 5 test cases
-- `logs/` có kết quả chạy thử
-- mã nguồn hoàn thiện cho Q1, Q2, Q3
+## Cấu trúc bài làm
+- `src/`: Chứa mã nguồn C++ hoàn thiện.
+- `tests/`: Chứa danh sách các trường hợp kiểm thử đã chạy.
+- `logs/`: Nhật ký thực hiện bài lab.
+- `report-page.md`: Báo cáo kết quả chi tiết.
 
-## Gợi ý commit
-- `Complete Q1 entropy walkthrough`
-- `Implement redundancy calculation`
-- `Implement modular inverse with extended Euclid`
-- `Add tests and report`
+## Ghi chú
+Hệ thống tự động kiểm tra được thiết lập qua **GitHub** Actions để xác nhận tính chính xác của thuật toán.
