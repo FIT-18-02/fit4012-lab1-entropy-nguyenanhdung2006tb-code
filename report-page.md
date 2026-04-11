@@ -25,4 +25,4 @@ Hoàn thiện các công cụ cơ bản trong an toàn thông tin bao gồm: tí
 | 6 | 9 | Không tồn tại | -1 (Hoặc báo lỗi gcd != 1) |
 
 ## 4. Kết luận
-Qua bài lab, em đã hiểu rõ cách đo lường lượng tin và tầm quan trọng của việc xử lý số học modulo trong mật mã. Khó khăn lớn nhất là việc xử lý giá trị x âm trả về từ thuật toán Euclid mở rộng để đưa về nghịch đảo modulo dương chuẩn xác. Việc tự tay cài đặt giúp em nắm vững bản chất toán học thay vì chỉ sử dụng công thức lý thuyết.
+Qua bài lab, em đã hiểu rõ về cách đo lường lượng tin và tầm quan trọng của việc xử lý số học modulo trong mật mã. Khó khăn lớn nhất là việc xử lý giá trị x âm trả về từ thuật toán Euclid mở rộng để đưa về nghịch đảo modulo dương chuẩn xác. Việc tự tay cài đặt giúp em nắm vững bản chất toán học thay vì chỉ sử dụng công thức lý thuyết.
